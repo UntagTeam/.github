@@ -6,4 +6,4 @@
 
 💡 关于新功能的想法，可以提到 [Discussions](https://github.com/UntagTeam/Untag-Forum/discussions/categories/%E6%83%B3%E6%B3%95) 的 “想法” 栏目。
 
-💬 和开发者交流，可以[加入 Slack 社群](https://utgd.net/community)。
+💬 和我们交流，可以[加入 Slack 社群](https://utgd.net/community)。
